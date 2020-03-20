@@ -1,0 +1,12 @@
+scikit-learn
+scikit-image
+imageio
+numpy
+pandas
+seaborn
+matplotlib
+jupyter
+scipy
+lxml
+nltk
+pillow

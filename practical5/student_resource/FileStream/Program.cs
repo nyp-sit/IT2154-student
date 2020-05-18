@@ -22,10 +22,6 @@ namespace FileStream
                     Console.WriteLine(s);
                 }
             }
-
-            if (path = "abc") {
-                Console.WriteLine("This is very hard to detect");
-            }
         }
     }
 }
